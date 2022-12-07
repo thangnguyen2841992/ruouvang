@@ -12,4 +12,12 @@
   margin-right: 10px;
   color: black;
 }
-
+.title-header {
+  margin-top: 20px;
+  text-align: center;
+}
+.tittle-content{
+  margin-top: 5px;
+  text-align: left;
+  font-size: 20px;
+}
