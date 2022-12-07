@@ -1,0 +1,15 @@
+.logo {
+  height: 60px;
+}
+.d-flex a {
+  text-decoration: none;
+}
+.login{
+  margin-right: 10px;
+  color: black;
+}
+.register {
+  margin-right: 10px;
+  color: black;
+}
+
